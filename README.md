@@ -31,4 +31,6 @@ It consists of:
 - Flask
 - requests
 
-## 
+## Communication 
+
+I am available via discord or text. I can and will respond within 24 hours. Texting me will generally result in the fastest response
